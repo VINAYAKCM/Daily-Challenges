@@ -1,5 +1,3 @@
-# Day 1 - Feedback Cleanup 🧹🗣️
-
 ## 📌 Problem Statement
 A messy JSON file containing customer feedback collected from a beta e-commerce app needs to be cleaned, analyzed, and summarized. The feedback includes multiple languages, emojis, inconsistent formatting, and missing fields.
 
