@@ -3,9 +3,9 @@
 ## 🧠 Problem Statement
 
 Real-world datasets are often noisy and unstructured. Cleaning and analyzing such data is a crucial step before any modeling or decision-making. The goal of this challenge was to take raw datasets and:
-- Clean them (handle missing data, duplicates, invalid formats)
-- Extract patterns using visualizations
-- Derive insights that could guide business or product decisions
+- Clean them (handle missing data, duplicates, invalid formats).
+- Extract patterns using visualizations.
+- Derive insights that could guide business or product decisions.
 
 ---
 
