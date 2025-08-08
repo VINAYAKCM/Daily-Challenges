@@ -1,0 +1,5 @@
+section,repo,description,visibility,stars,forks,watchers,open_issues,default_branch,pushed_at,created_at,language,sha,author_name,message,url,open_issues_listed
+summary,Vyshnavkumarp/Shipment_Chatbot,A smart chatbot powered by Groq AI that helps users track shipments and get shipping-related information using the TrackingMore API.,public,1.0,0.0,1.0,0.0,main,2025-02-21T09:22:33Z,2025-02-21T06:14:10Z,Python,,,,,
+commit,Vyshnavkumarp/Shipment_Chatbot,,,,,,,,2025-02-21T09:22:32Z,,,91ca67d9870022043347cd8fe3175db057458af7,Vyshnav Kumar P,Deleted instruction file from the project repository,https://github.com/Vyshnavkumarp/Shipment_Chatbot/commit/91ca67d9870022043347cd8fe3175db057458af7,
+commit,Vyshnavkumarp/Shipment_Chatbot,,,,,,,,2025-02-21T06:16:37Z,,,d1b3ac93c934896ab0580e617810aa1cb93b96a1,Vyshnav Kumar P,Added the project files from local,https://github.com/Vyshnavkumarp/Shipment_Chatbot/commit/d1b3ac93c934896ab0580e617810aa1cb93b96a1,
+issues,Vyshnavkumarp/Shipment_Chatbot,,,,,,,,,,,,,,,0.0
